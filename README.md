@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi everyone!
+I would like to study "ruby".
+Thank you.
